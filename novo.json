@@ -1,5 +1,4 @@
-{
-"Plan1":[
+[
  {
   "Question": "Quem descobriu o brasil?",
   "A": "joao",
@@ -40,7 +39,4 @@
   "Explanation": 1,
   "answer": "cristovao"
  }
-],
-"Plan2":[],
-"Plan3":[]
-}
+]
